@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Thinking-Lab-XMU
       image:
         filename: welcome.jpg
       text: |
